@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name Redirect to Duo Universal Prompt from Okta
 // @namespace https://alexhedges.dev
-// @match https://*.okta.com/app/*
-// @version 1.0
+// @match https://*.okta.com/*
+// @version 1.1
 // @description Press "Verify" automatically for you
 // @icon https://www.google.com/s2/favicons?sz=64&domain=duosecurity.com
 // @grant none
